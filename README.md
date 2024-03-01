@@ -2,8 +2,6 @@
 
 This GitHub contains the official repository (mtdev) for supporting materials and resources for the book **"Automating Translation"**. Translation technology is essential for translation students, practising translators, and those working as part of the language services industry, but looming above others are the tools for automating translation: machine translation (MT) and, more recently, Generative AI based on Large Language Models (LLMs).
 
-![image](https://github.com/adaptNMT/mtdev/assets/101801657/939becdd-fba0-446d-9d8e-8e17d0d33a94)
-
 ![image](https://github.com/adaptNMT/mtdev/assets/101801657/dbd5db6e-d501-473b-a638-2f9887b52cee)
 
 ## About the Book
