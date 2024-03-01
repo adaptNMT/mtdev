@@ -4,6 +4,8 @@ This GitHub contains the official repository (mtdev) for supporting materials an
 
 ![image](https://github.com/adaptNMT/mtdev/assets/101801657/939becdd-fba0-446d-9d8e-8e17d0d33a94)
 
+![image](https://github.com/adaptNMT/mtdev/assets/101801657/dbd5db6e-d501-473b-a638-2f9887b52cee)
+
 ## About the Book
 
 "Automating Translation", authored by leading experts, demystifies MT, explaining its origins, its training data, how neural MT and LLMs work, how to measure their quality, how translators interact with contemporary systems for automating translation, and how readers can build their own MT or LLM. In later chapters, the scope of the book expands to look more broadly at translation automation in audiovisual translation and localisation. Importantly, the book also examines the sociotechnical context, focusing on ethics and sustainability. Enhanced with activities, further reading and resource links, including online support material on the Routledge Translation studies portal, this is an essential textbook for students of translation studies, trainee and practising translators and users of MT and multilingual LLMs.
